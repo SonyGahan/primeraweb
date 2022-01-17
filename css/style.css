@@ -1,0 +1,124 @@
+@charset "utf-8"
+/* CSS Document */
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+#fondo {
+  background: #d5d6d6;
+  font-family: verdana;
+  margin: 0 auto;
+}
+
+#encabezado {
+  background: #D0D3D4;
+  width: 100%;
+  padding: 2%;
+}
+
+
+#tituloprincipal {
+  font-size: 200%;
+  line-height: 120%;
+  font-weight: 400;
+  color: #FDFEFE;
+  text-align: center;
+  padding: 3%;
+}
+
+#botonera {
+	width: 100%;
+	height: 50px;
+}
+
+
+#boton {
+  font-size: 100%;
+  font-family: verdana;
+  font-size: 80%;
+  display: inline-block;
+  margin: 12px;
+  padding: 4px;
+}
+
+#barraizquierda {
+	background: #d63384;
+	float: left;
+	width: 350px;
+	padding: 2%;
+}
+
+#camposeccion {
+	background: #fcdabe;
+	padding: 2%;
+	width: 100%;
+	height: 100%;
+}
+
+
+#fondopie {
+  background: #5B2C6F;
+  width: 100%;
+  height: 80%;
+  overflow: hidden;
+}
+
+#barrapie {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 0 3% 0;
+}
+
+
+.icon-text-text {
+  float: left;
+  width: 100%;
+  padding: 4% 4% 2% 0;
+  font-size:
+}
+
+.social {
+  list-style-type: none;
+  text-align: center;
+}
+
+.social li {
+  display: inline;
+}
+
+.social i {
+  font-size: 300%;
+  margin: 1%;
+  padding: 5%;
+  color: #D7BDE2;
+}
+
+.social i:hover {
+  color: #FDFEFE;
+}
+
+small {
+  text-align: center;
+  color: #F5EEF8;
+  font-size: 80%;
+  line-height: 150%;
+  margin: 1%;
+  padding: 5%;
+}
+#contenedor1{
+  width: 100%;
+  float: left;
+}
+#izquierda{
+  width: 30%;
+  float: left;
+  background-color: #d63384;
+  padding: 1%;
+}
+#derecha{
+  width: 70%;
+  float: left;
+}

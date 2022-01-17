@@ -1,0 +1,49 @@
+p {
+  color: #524c56;
+  font-size: 120%;
+  line-height: 140%;
+  padding: 3%;
+  text-indent: 2%;
+  text-align: justify;
+}
+
+h2 {
+  font-size: 140%;
+  line-height: 120%;
+  font-weight: 400;
+  color: #5B2C6F;
+  text-align: left;
+  padding: 3%;
+}
+
+h3 {
+  font-size: 130%;
+  line-height: 120%;
+  font-weight: 400;
+  color: #524c56;
+  text-align: left;
+  padding: 3%;
+}
+
+h4 {
+  font-size: 125%;
+  line-height: 120%;
+  font-weight: 400;
+  color: #524c56;
+  text-align: left;
+  padding: 3%;
+}
+a {
+  color: #524c56;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+  width: auto;
+  margin-bottom: -4px;
+}
