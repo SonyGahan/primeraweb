@@ -8,13 +8,15 @@
 }
 
 #fondo {
-  background: #d5d6d6;
-  font-family: verdana;
+  background: #ebecec;
+  font-family: sans-serif;
   margin: 0 auto;
+  width:80%;
+  padding: 2%;
 }
 
 #encabezado {
-  background: #D0D3D4;
+  background: #cccecf;
   width: 100%;
   padding: 2%;
 }
@@ -32,17 +34,9 @@
 #botonera {
 	width: 100%;
 	height: 50px;
+  padding: 1%;
 }
 
-
-#boton {
-  font-size: 100%;
-  font-family: verdana;
-  font-size: 80%;
-  display: inline-block;
-  margin: 12px;
-  padding: 4px;
-}
 
 #barraizquierda {
 	background: #d63384;
@@ -111,14 +105,5 @@ small {
 #contenedor1{
   width: 100%;
   float: left;
-}
-#izquierda{
-  width: 30%;
-  float: left;
-  background-color: #d63384;
-  padding: 1%;
-}
-#derecha{
-  width: 70%;
-  float: left;
+  background-color: #e7e3e5;
 }
